@@ -1,4 +1,4 @@
-SpringPractice
+Java-E-Commerce-SpringPractice
 ==============
 Overview
 --------------
