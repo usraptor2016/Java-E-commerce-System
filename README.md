@@ -8,6 +8,8 @@ Build book selling website based on Udemy online course _Complete E-Commerce: Ja
  2. User adds books to his cart <br/>
  3. User makes payment and sets mail address <br/>
  4. Administrator Login <br/>
+ 5. Book Recommendation <br/>
+ 6. user-experience rating <br/>
  
 ![home page](https://github.com/CyanBuckeye/SpringPractice/blob/master/screenshot/home.png "home")
 ![Login page](https://github.com/CyanBuckeye/SpringPractice/blob/master/screenshot/login.png "login")
